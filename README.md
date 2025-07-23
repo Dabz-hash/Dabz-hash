@@ -1,7 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=John%20Idabor&textBg=false&fontColor=fff&fontSize=50&section=header) 
 
-Hi there, I'm John (I go by `/Dabz` in most online places), I am a student and stil learning
-i work on the following. 
+Hi there, I'm John (I go by `/Dabz` in most online places), I am a student,I am working on becoming a system developer
 
 ---
 
