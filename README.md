@@ -1,8 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=John%20Idabor&textBg=false&fontColor=fff&fontSize=50&section=header) 
 
-Hi there, I'm John (I go by `/Dabz` in most online places), a web developer based in Abuja, Nigeria.
-
-I focus on building simple yet modern web apps and sites that improve user experience & productivity. 
+Hi there, I'm John (I go by `/Dabz` in most online places), I am a student and stil learning
+i work on the following. 
 
 ---
 
