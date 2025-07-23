@@ -13,7 +13,7 @@ I focus on building simple yet modern web apps and sites that improve user exper
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-#### Project
+#### Projects
 Coming Soonn....
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&textBg=false&fontColor=134074&fontSize=60&section=footer)
